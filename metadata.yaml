@@ -1,11 +1,16 @@
 _repo: Bringing-up-the-Boy-A-Message-to-Fathers-and-Mothers-from-a-Boy-of-Yesterday-Concerning-the-M__56109
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56109-h/images/cover.jpg
 creator:
   author:
     agent_name: Werner, Carl
     gutenberg_agent_id: '48674'
     url: http://www.gutenberg.org/2009/agents/48674
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56109#Bringing-up-the-Boy-A-Message-to-Fathers-and-Mothers-from-a-Boy-of-Yesterday-Concerning-the-M_
 gutenberg_issued: '2017-12-03'
 gutenberg_type: Text
 identifiers:
